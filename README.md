@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on my react portfolio, Maptree, BloodOnWater, and some tools for Dayz server management <3
+🔭 I’m currently working on my Maptree, and some tools for Dayz server management <3
 
 
 <!--
