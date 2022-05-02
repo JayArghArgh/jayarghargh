@@ -1,5 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on an office lotto syndicate manager, and some tools for Dayz server management <3
+- 👯 I’m looking for collaborators on easymern
+- 🌱 I’m currently learning Marketing
+- 📫 How to reach me: email (username gmail.com), twitter hopbuddyhop
 
 
 <!--
