@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 👯 I’m looking for collaborators on easymern
-- 🌱 I’m currently learning Marketing
+- 👯 I’m looking for collaborators on...
+- 🌱 I’m currently learning...
 - 📫 How to reach me: email (username gmail.com), twitter hopbuddyhop
 
 
