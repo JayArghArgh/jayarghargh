@@ -1,7 +1,9 @@
 ### Hi there 👋
+<!--
 - 👯 I’m looking for collaborators on...
-- 🌱 I’m currently learning...
-- 📫 How to reach me: email (username gmail.com), twitter hopbuddyhop
+- 🌱 I’m currently learning.
+-->
+- 📫 How to reach me: https://www.linkedin.com/in/justinreidau/
 
 
 <!--
